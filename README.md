@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomSwb
-- 👀 I’m interested in database development and architecture
-- 🌱 I’m currently learning sql and will begin python soon
+- 👀 I’m interested in database development and architecture, but just began my coding journey
+- 🌱 I’m learned the basis of sql and will begin python soon
 - 📫 You can reach me at thomasschwab146@gmail.com
 - ⚡ Fun fact: I enjoy nature in my small village of Switzerland
 
