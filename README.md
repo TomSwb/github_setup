@@ -4,7 +4,7 @@ I started my journey as a developer not too long ago. What drew me to this field
 
 The models in my repositories serve as practical examples of what I am learning. I am currently taking my first courses on Mimo.org and using AI as a supplemental tool to learn anything I need. I am careful not to rely solely on AI to code for me; instead, I focus on building my foundational understanding before implementing code in a program I would use. While this approach may take more time, I believe it is essential for ensuring my expertise and professionalism for the sake of my future clients.
 
-- 📫 You can reach me on LinkedIn - www.linkedin.com/in/thomas-schwab-cis
+- 📫 You can reach me on LinkedIn - www.linkedin.com/in/thomas-schwab-bmi
   
 - ⚡ Fun fact: I enjoy nature in my small village in Switzerland
 
